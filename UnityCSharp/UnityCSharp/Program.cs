@@ -3,16 +3,20 @@
 namespace UnityCSharp {
     class Program {
         static void Main(string[] args) {
-            int a = 0x11;
-            int b = 0b11;
-            int c = 11;
 
-            Console.WriteLine($"Hexa : {a}, Binary : {b}, Dec : {c}");
+            int id = 123;
+            int key = 401;
 
-            bool isA = true;
-            bool isB = false;
+            int a = id ^ key;
+            int b = a ^ key;
 
-            Console.WriteLine($"{Convert.ToInt32(isA)},,,,,{Convert.ToInt32(isB)}");
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+
+            //// << >> &(and) |(or) ^(xor) ~(not)
+            //num = num >> 1;
+
+            //Console.WriteLine(num);
         }
     }
 }
