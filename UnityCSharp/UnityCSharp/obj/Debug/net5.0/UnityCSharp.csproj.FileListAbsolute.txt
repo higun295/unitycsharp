@@ -1,0 +1,16 @@
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\UnityCSharp.exe
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\UnityCSharp.deps.json
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\UnityCSharp.runtimeconfig.json
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\UnityCSharp.runtimeconfig.dev.json
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\UnityCSharp.dll
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\ref\UnityCSharp.dll
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\bin\Debug\net5.0\UnityCSharp.pdb
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.csproj.AssemblyReference.cache
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.AssemblyInfoInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.AssemblyInfo.cs
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.csproj.CoreCompileInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.dll
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\ref\UnityCSharp.dll
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.pdb
+E:\Projects\UnityCSharp\UnityCSharp\UnityCSharp\obj\Debug\net5.0\UnityCSharp.genruntimeconfig.cache
