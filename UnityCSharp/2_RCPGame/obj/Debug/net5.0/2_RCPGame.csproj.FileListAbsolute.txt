@@ -1,0 +1,16 @@
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\2_RCPGame.exe
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\2_RCPGame.deps.json
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\2_RCPGame.runtimeconfig.json
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\2_RCPGame.runtimeconfig.dev.json
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\2_RCPGame.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\ref\2_RCPGame.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\bin\Debug\net5.0\2_RCPGame.pdb
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.csproj.AssemblyReference.cache
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.AssemblyInfoInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.AssemblyInfo.cs
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.csproj.CoreCompileInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\ref\2_RCPGame.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.pdb
+E:\Projects\UnityCSharp\UnityCSharp\2_RCPGame\obj\Debug\net5.0\2_RCPGame.genruntimeconfig.cache
