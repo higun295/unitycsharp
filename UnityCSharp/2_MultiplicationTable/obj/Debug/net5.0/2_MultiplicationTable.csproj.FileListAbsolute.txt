@@ -1,0 +1,15 @@
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\2_MultiplicationTable.exe
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\2_MultiplicationTable.deps.json
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\2_MultiplicationTable.runtimeconfig.json
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\2_MultiplicationTable.runtimeconfig.dev.json
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\2_MultiplicationTable.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\ref\2_MultiplicationTable.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\bin\Debug\net5.0\2_MultiplicationTable.pdb
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.AssemblyInfoInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.AssemblyInfo.cs
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\ref\2_MultiplicationTable.dll
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.pdb
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.genruntimeconfig.cache

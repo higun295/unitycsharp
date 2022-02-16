@@ -1,0 +1,16 @@
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\3_TextRPG.exe
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\3_TextRPG.deps.json
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\3_TextRPG.runtimeconfig.json
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\3_TextRPG.runtimeconfig.dev.json
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\3_TextRPG.dll
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\ref\3_TextRPG.dll
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\bin\Debug\net5.0\3_TextRPG.pdb
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.csproj.AssemblyReference.cache
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.AssemblyInfoInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.AssemblyInfo.cs
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.csproj.CoreCompileInputs.cache
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.dll
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\ref\3_TextRPG.dll
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.pdb
+E:\Projects\UnityCSharp\UnityCSharp\3_TextRPG\obj\Debug\net5.0\3_TextRPG.genruntimeconfig.cache
