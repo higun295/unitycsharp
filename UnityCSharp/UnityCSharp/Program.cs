@@ -1,8 +1,11 @@
 ﻿using System;
 
-namespace UnityCSharp {
-    class Program {
-        static void Main(string[] args) {
+namespace UnityCSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
             int id = 123;
             int key = 401;

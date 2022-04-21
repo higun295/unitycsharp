@@ -13,3 +13,4 @@ E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_Mul
 E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\ref\2_MultiplicationTable.dll
 E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.pdb
 E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.genruntimeconfig.cache
+E:\Projects\UnityCSharp\UnityCSharp\2_MultiplicationTable\obj\Debug\net5.0\2_MultiplicationTable.csproj.AssemblyReference.cache
